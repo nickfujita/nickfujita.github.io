@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Untitled RSS Feed</title><description>Untitled RSS Feed</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Mon, 16 Nov 2015 23:51:06 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Deploying your node app with Docker</title><description>&lt;h1 id="settingupyourdockerimagelocally"&gt;Setting up your Docker image locally&lt;/h1&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Untitled RSS Feed</title><description>Untitled RSS Feed</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Mon, 16 Nov 2015 23:57:51 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Deploying your node app with Docker</title><description>&lt;h2 id="settingupyourdockerimage"&gt;Setting up your Docker image&lt;/h2&gt;
 
 &lt;h5 id="downloadinstalldockertools"&gt;Download/Install Docker Tools&lt;/h5&gt;
 
@@ -11,7 +11,7 @@
 &lt;ul&gt;
 &lt;li&gt;Run Docker Quickstart Terminal&lt;/li&gt;
 &lt;li&gt;This will start up a docker-machine (virtual machine) on your local computer&lt;/li&gt;
-&lt;li&gt;Once the docker machine is running, you should see the following logo pop up in your&lt;/li&gt;&lt;/ul&gt;</description><link>http://localhost:2368/deploying-your-node-app-with-docker/</link><guid isPermaLink="false">11558e9f-24d0-4bdc-80ce-274a29424527</guid><dc:creator>nick fujita</dc:creator><pubDate>Mon, 16 Nov 2015 23:22:34 GMT</pubDate><content:encoded>&lt;h1 id="settingupyourdockerimagelocally"&gt;Setting up your Docker image locally&lt;/h1&gt;
+&lt;li&gt;Once the docker machine is running, you should see the following logo pop up in your console&lt;/li&gt;&lt;/ul&gt;</description><link>http://localhost:2368/deploying-your-node-app-with-docker/</link><guid isPermaLink="false">11558e9f-24d0-4bdc-80ce-274a29424527</guid><dc:creator>nick fujita</dc:creator><pubDate>Mon, 16 Nov 2015 23:22:34 GMT</pubDate><content:encoded>&lt;h2 id="settingupyourdockerimage"&gt;Setting up your Docker image&lt;/h2&gt;
 
 &lt;h5 id="downloadinstalldockertools"&gt;Download/Install Docker Tools&lt;/h5&gt;
 
@@ -234,7 +234,7 @@ Once you have confirmed that your application is running as expected in the dock
 &lt;/blockquote&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id="deployingtoserver"&gt;Deploying to server&lt;/h1&gt;
+&lt;h2 id="deployingtoserver"&gt;Deploying to server&lt;/h2&gt;
 
 &lt;h5 id="digitalocean"&gt;Digital Ocean&lt;/h5&gt;
 
