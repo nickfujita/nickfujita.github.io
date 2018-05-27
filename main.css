@@ -7,7 +7,7 @@
 /* Padding below the footer and lighter body text */
 
 body {
-  color: #5a5a5a;  
+  color: #5a5a5a;
 }
 
 
@@ -63,17 +63,17 @@ body {
 
 a:hover {
   color: #d1605c;
-  text-decoration: none; 
+  text-decoration: none;
 }
 
-/*a:visited { 
+/*a:visited {
   color: #727272;
-  text-decoration: none; 
+  text-decoration: none;
 }*/
 
 a:active {
   color: #d1605c;
-  text-decoration: none; 
+  text-decoration: none;
 }
 
 .nav {
@@ -130,7 +130,7 @@ a:active {
 ------------------------- */
 
 .featurette {
-  margin-top: 80px;
+  margin-top: 30px;
 }
 
 .featurette-divider {
@@ -183,7 +183,13 @@ i:hover {
 }
 
 
+.profile-pic {
+  margin-bottom: 50px;
+}
 
+.button-container {
+  margin-top: 20px;
+}
 
 
 /* RESPONSIVE CSS
@@ -204,7 +210,7 @@ i:hover {
   h4 {
     font-size: 4em;
   }
-  
+
 }
 
 @media (min-width: 768px) {
@@ -266,13 +272,13 @@ div.bottom-line {
 
 .bottom-line a {
   color: #ffdf85;
-  text-decoration: none; 
+  text-decoration: none;
 
 }
 
 .bottom-line a:hover {
   color: #e9a663;
-  text-decoration: none; 
+  text-decoration: none;
 
 }
 
@@ -281,5 +287,5 @@ div.bottom-line {
 }
 
 a:active {
-  text-decoration: none; 
+  text-decoration: none;
 }
