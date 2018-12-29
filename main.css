@@ -301,9 +301,11 @@ body {/*normally use body*/
   margin: auto;
   position: relative;
   margin-bottom: 36px;
+  max-width: 100%;
 }
 .face {
   position: absolute;
+  max-width: 100%;
 }
 .eye-container {
   width: 100%;
