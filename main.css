@@ -289,3 +289,53 @@ div.bottom-line {
 a:active {
   text-decoration: none;
 }
+
+
+body {/*normally use body*/
+  width: 100vw;
+  height: 100vh;
+}
+.face-container {
+  height: 460px;
+  width: 460px;
+  margin: auto;
+  position: relative;
+  margin-bottom: 36px;
+}
+.face {
+  position: absolute;
+}
+.eye-container {
+  width: 100%;
+  z-index: 1;
+  background: white;
+  position: relative;
+  left: 42%;
+  top: 33%;
+}
+.eye {
+  position: absolute;
+  display: inline-block;
+  border-radius: 50%;
+  height: 60px;
+  width: 60px;
+  background: white;
+}
+.eye.right {
+  left: 55px;
+  top: -10px;
+}
+.eye.left {
+  left: -45px;
+  top: -4px;
+}
+.eye:after { /*pupil*/
+  position: absolute;
+  bottom: 34px;
+  right: 20px;
+  width: 20px;
+  height: 20px;
+  background: #000;
+  border-radius: 50%;
+  content: " ";
+}
