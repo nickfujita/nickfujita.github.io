@@ -341,3 +341,9 @@ body {/*normally use body*/
   border-radius: 50%;
   content: " ";
 }
+
+@media (max-width: 500px) {
+  .eye-container {
+    display: none;
+  }
+}
